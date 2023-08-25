@@ -88,18 +88,18 @@ p{
     .body .row-1{
         align-content:flex-start;
         /* width: 33%; */
-        background-color: aqua;
+
         width: 49%;
     }
     .body .row-2{
         /* width: 33%; */
-        background-color: aqua;
+
         width: 49%;
     }
     .body .row-3{
         /* width: 33%; */
         align-content: flex-end;
-        background-color: aqua;
+
         display: block;
         width: 100%;
     }
@@ -109,7 +109,7 @@ p{
     /* For mobile phones: */
     .body .row-1,.body .row-2,.body .row-3 {
         /* width: 33%; */
-        background-color: aqua;
+
         width: auto;
     }
   }

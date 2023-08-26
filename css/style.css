@@ -40,9 +40,7 @@
 }
 .header .hero{
     background-color:#2ECFC3;
-    width: 200% !important;
-    margin: 0px -50% 0px -50% !important;
-    padding: 0px 0px 0px 0px !important;
+    width: 100%;
 
 }
 .header .hero h1,.header .hero h2{
@@ -72,10 +70,7 @@ p{
 }
 .footer{
     background-color:rgba(166, 172, 177, 0.863);
-    height: 50px !important;
-    width: 200% !important;
-    margin: 0px -50% 0px -50% !important;
-    padding: 0px 0px 0px 0px !important;
+    width: 100%;
 }
 .footer p{
     padding-top: 10px;
